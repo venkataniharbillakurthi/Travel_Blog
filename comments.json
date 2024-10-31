@@ -1,0 +1,19 @@
+{
+    "comments": [
+      {
+        "postId": 1,
+        "name": "Alice Smith",
+        "email": "alice@example.com",
+        "message": "I loved this post! The Alps are amazing!",
+        "date": "2024-10-21"
+      },
+      {
+        "postId": 1,
+        "name": "Bob Brown",
+        "email": "bob@example.com",
+        "message": "Great tips for hiking in the Alps!",
+        "date": "2024-10-22"
+      }
+    ]
+  }
+  

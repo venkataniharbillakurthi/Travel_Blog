@@ -1,0 +1,93 @@
+
+.mainimage{
+    background-image: url(./homeimage.webp);   
+}
+.nav1{
+    background-image: url(./nav.jpg );  
+    color: white; 
+}
+.blogbg{
+     
+    height: 400px;
+    color: white;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.header{
+    background-color: rgba(167, 178, 187, 0.297);
+}
+
+
+/* Hero Section */
+
+.hero {
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.hero h2 {
+    font-size: 48px;
+}
+
+.hero p {
+    font-size: 20px;
+}
+
+/* Cards */
+.card {
+    margin-bottom: 30px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Footer */
+footer a {
+    margin: 0 10px;
+}
+
+
+
+
+
+/* About Section */
+.about img {
+    width: 100%;
+    height: auto;
+}
+
+.about h4 {
+    margin-top: 20px;
+}
+
+
+
+
+/* Blog Post Styles */
+.social-sharing a {
+    margin: 0 5px;
+}
+
+
+
+/* Destinations Page Styles */
+.card img {
+    height: 200px; /* Fixed height for uniform card sizes */
+    object-fit: cover; /* Cover to maintain aspect ratio */
+}
+
+
+/* Contact Page Styles */
+.form-group {
+    margin-bottom: 1.5rem; /* Adds space between form elements */
+}
